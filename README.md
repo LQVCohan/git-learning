@@ -2,4 +2,4 @@
 
 My Git practice repository.
 
-Continue learning yeah
+Continue doing
